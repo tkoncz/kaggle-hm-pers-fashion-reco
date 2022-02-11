@@ -1,0 +1,9 @@
+.env*
+!.env.sample
+
+credentials/*
+!credentials/.gitkeep
+
+kaggle_raw_data
+
+**/.DS_Store
